@@ -1,0 +1,53 @@
+This project is intended to serve as a user interface and management layer for several AI agents. These agents will become progressively more sophisticated over time, starting as augmented LLMs, and progressing through co-workers to (hopefully) benevolent genies. 
+
+As an aid to engineering the software, I will try to walk through a number of use cases. It is assumed that the human user is fallable and it is perfectly acceptable for the agent to report that a task is infeasible or has deep technical issues and therefore reject it. 
+
+It is expected that a large portion of the tasks entered into the system will be of the high-effort/ high-reward category, indeed problems worthy of the superintelligences that will eventually be working on them. It is expected that such projects will require numerous 
+
+
+##
+
+Initiative: Molecular nanotechnology
+
+Molecular nanotechnology is a key enabling technology for a number of important technologies. 
+
+Goals develop a suite of self replicating nanotechnologies and nanotechnological patterns for medical, technology, and computing purposes.
+
+Long term goals: ongoing expansion, maintenance, and refinement of nanotechnologies on a periodic schedule. 
+
+Security: Private. This is a private technological fork.
+
+--
+
+Agent: I have collected available literuature on molecular nanotechnology. I have noted that certain papers have been injected into the literature apparently to prematurely deprecate the field. I think progress can be made if we acqire [specification of laboratory], [specification of computing resources], [specification of chemical feedstocks]. 
+
+--
+
+User: I have obtained the resources you requested, please assign agents to do the required 
+
+
+
+## 
+
+Initiative: Medical literature review. 
+
+In order to develop a new species that incorporates nanotechnologies, we need to review the medical catalogues and identify strategies for mitigating potential disease states including reducing the occouance, severity, reducing or eliminating the necessity for intervention, and improving the recovery from disease. Mitigations that significantly change the baseline human phenotype should be developed as alternative phenotypes. 
+
+Security: Public. Medical knowledge is inherently universal heritage human information however specific information regarding the novel cyborg species should be held for security review. 
+
+Agent: [sample from thousands of such entries] I have found that the human colarbone has an elevated risk of fracture. I propose [changes to the colarbone] which should significantly reduce the frequency of injury without significantly changing the baseline phenotype. 
+
+Agent: The reversed knee anatomy has been proposed as enabling a more efficient gate and reducing a variety of injury conditions, however this is a significant phenotypal change so it will be filed as an alternate phenotype. 
+
+
+
+
+
+
+[ Todo: show more advanced user-Agent interractions, atypical scenarios the system needs to accommodate, explain how work products are catologed, version controlled and archived ] 
+
+
+
+
+
+
